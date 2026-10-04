@@ -1,7 +1,7 @@
 # Análise de Dados de Recursos Humanos (HR)
 
 **Aluna:** Celina Machado de Liz
-**Turma:** T3 - SCTEC
+**Turma:** T3 - VISUALIZAÇÃO DE DADOS E BUSINESS INTELLIGENCE
 
 ## Objetivo do Trabalho
 O meu objetivo neste projeto foi analisar dados de Recursos Humanos utilizando SQL para a extração e Python para a Análise Exploratória de Dados (EDA). Direcionei a análise para entender a distribuição de salários e a relação entre cargos, departamentos e regiões.
