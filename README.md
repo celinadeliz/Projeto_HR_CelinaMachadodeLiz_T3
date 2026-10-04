@@ -1,7 +1,6 @@
 # Análise de Dados de Recursos Humanos (HR)
 
 **Aluna:** Celina Machado de Liz
-
 **Turma:** T3 - VISUALIZAÇÃO DE DADOS E BUSINESS INTELLIGENCE
 
 ## Objetivo do Trabalho
