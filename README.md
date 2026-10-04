@@ -35,6 +35,7 @@ Criei dois gráficos principais: um Histograma para demonstrar a distribuição 
 2. Crie e ative um ambiente virtual (`python -m venv venv`).
 3. Instale as dependências (`pip install pandas matplotlib seaborn`).
 4. Execute o arquivo `analise.py` para visualizar os cálculos no terminal e os gráficos em uma janela anexa.
+5. Assista ao vídeo de explicação (https://www.loom.com/share/e97cd7c873db4e28a33255614681c1e9)
 
 ## Sugestões de Melhoria
 Para versões futuras deste meu projeto, considero interessante automatizar a extração de dados diretamente do banco de dados para o Python via API ou biblioteca de conexão, além de cruzar dados de tempo de empresa com os salários atuais.
