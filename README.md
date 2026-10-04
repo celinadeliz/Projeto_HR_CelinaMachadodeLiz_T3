@@ -27,6 +27,8 @@ Calculei as seguintes métricas de salário:
 * **Máximo:** R$ 24000.00
 
 Criei dois gráficos principais: um Histograma para demonstrar a distribuição geral dos salários e um Boxplot para evidenciar a variação salarial entre os diferentes departamentos.
+<img width="1044" height="551" alt="Salários graficos" src="https://github.com/user-attachments/assets/653dcdcb-4a6f-4ce5-b194-ff133b436945" />
+
 
 ## Como Executar o Projeto
 **Pré-requisitos:** Python 3.x, Pandas, Matplotlib, Seaborn.
