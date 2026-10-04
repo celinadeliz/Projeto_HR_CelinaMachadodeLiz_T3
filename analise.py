@@ -16,7 +16,7 @@ plt.rcParams.update({
 tabela_salarios = pd.read_csv('query_01.csv')
 tabela_regioes = pd.read_csv('query_02.csv')
 
-# Garantindo que as colunas fiquem em maiúsculo para eu não ter erro
+# Garantindo que as colunas fiquem em maiúsculo para não ter erro
 tabela_salarios.columns = tabela_salarios.columns.str.upper()
 tabela_regioes.columns = tabela_regioes.columns.str.upper()
 
